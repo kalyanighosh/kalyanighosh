@@ -1,4 +1,3 @@
-kalyanighosh
 
 Hello World! 👋
 
@@ -20,14 +19,11 @@ I’m a Software Developer with 3+ years of experience, passionate about buildin
 
 
 My expertise includes:
+
 JavaScript React Next.js  Redux GraphQL Node.js Express.js MongoDB AWS Azure Firebase Git Visual Studio Code  Jest WebSocket  Figma 
 
+_________________________________________________________________________________________________________________________________________________________
 
-pikachu-hi
-
-
-
-pikachu-hi
 A clean code a day keeps issues away 🧹
 
 
