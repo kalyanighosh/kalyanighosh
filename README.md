@@ -25,7 +25,7 @@ JavaScript React Next.js  Redux GraphQL Node.js Express.js MongoDB AWS Azure Fir
 _________________________________________________________________________________________________________________________________________________________
 
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhuOWd4czU0aWk3cHl5dnhjNG00eHQyem94eG5uY3JuNzA4dmNneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="150" height="150"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjhuOWd4czU0aWk3cHl5dnhjNG00eHQyem94eG5uY3JuNzA4dmNneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="100" height="100"/>
 
 A clean code a day keeps issues away 🧹
 
