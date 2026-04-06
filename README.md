@@ -1,16 +1,36 @@
-## Hi there 👋
+kalyanighosh
 
-<!--
-**kalyanighosh/kalyanighosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World! 👋
 
-Here are some ideas to get you started:
+I’m a Software Developer with 3+ years of experience, passionate about building intuitive and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 With a solid foundation in JavaScript, React, and modern frontend tools, I focus on delivering seamless and high-quality user experiences.
+
+🚀 I’ve contributed to B2B SaaS products, working on real-world features, improving UI performance, and enhancing usability.
+
+✍️ Beyond development, I’m a youtuber where I share insights on frontend development and industry trends.
+
+🎤 I actively engage with the tech community through meetups and conferences .
+
+🌱 Currently contributing to impactful, user-focused products.
+
+
+ 
+
+
+
+My expertise includes:
+JavaScript React Next.js  Redux GraphQL Node.js Express.js MongoDB AWS Azure Firebase Git Visual Studio Code  Jest WebSocket  Figma 
+
+
+pikachu-hi
+
+
+
+pikachu-hi
+A clean code a day keeps issues away 🧹
+
+
+
+Let's connect and collaborate! 
+https://www.linkedin.com/in/kalyanighosh/
